@@ -33,7 +33,7 @@ Since this repo already comes with the compiled outfiles, you do not need to run
 If you are already using a `DefaultKeyBinding.dict`, then `make macosinstall`
 will overwrite the existing file, and `make macosuninstall` will delete it.
 
-[unicodefs.md]: unicodefs.md
+[unicodefs.md]: outfiles/unicodefs.md
 [unicodef]:     https://github.com/tsouanas/unicodef
 [ThaTeX]:       https://github.com/tsouanas/thatex
 

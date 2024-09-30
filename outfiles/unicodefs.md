@@ -1,6 +1,5 @@
 # unicodefs
 
-
 ## emoji (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -12,7 +11,6 @@
 | ``tada`` | 🎉 |
 | ``zzz`` | 💤 |
 | ``anchor`` | ⚓ |
-
 ## fonts (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -772,7 +770,6 @@
 | ``_v`` | ᵥ |
 | ``_x`` | ₓ |
 | ``blank`` | ⠀ |
-
 ## games (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -814,7 +811,6 @@
 | ``die4`` | ⚃ |
 | ``die5`` | ⚄ |
 | ``die6`` | ⚅ |
-
 ## greek (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -874,7 +870,6 @@
 | ``chi`` | χ |
 | ``psi`` | ψ |
 | ``omega`` | ω |
-
 ## misc (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -915,7 +910,6 @@
 | ``snotes`` | ♬ |
 | ``umbrel`` | ☂ |
 | ``snowma`` | ☃ |
-
 ## simple (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -1586,7 +1580,6 @@
 | ``~u`` | ũ |
 | ``~v`` | ṽ |
 | ``~y`` | ỹ |
-
 ## thatex (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
