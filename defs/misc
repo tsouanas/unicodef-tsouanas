@@ -6,6 +6,16 @@ yen      ¥
 brl      R$
 cent     ¢
 
+# ye olde
+Eth      Ð
+eth      ð
+Thorn    Þ
+thorn    þ
+
+# typing
+para     ¶
+sect     §
+
 # drawings
 coffin   ⚰
 pirate   ☠
@@ -20,7 +30,7 @@ bphone   ☎
 wphone   ☏
 wflag    ⚐
 bflag    ⚑
-pentag   ⛤
+penta    ⛤
 bapho    ⛧
 swords   ⚔
 music    ♪
@@ -40,6 +50,11 @@ qnote    ♩
 enote    ♪
 enotes   ♫
 snotes   ♬
+
+# misc
+degree   °
+copy     ©
+reg      ®
 
 
 # XXX shortcuts for 6-char-limit

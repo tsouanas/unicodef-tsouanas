@@ -6,6 +6,12 @@ inoremap \\usd $
 inoremap \\yen ¥
 inoremap \\brl R$
 inoremap \\cent ¢
+inoremap \\Eth Ð
+inoremap \\eth ð
+inoremap \\Thorn Þ
+inoremap \\thorn þ
+inoremap \\para ¶
+inoremap \\sect §
 inoremap \\coffin ⚰
 inoremap \\pirate ☠
 inoremap \\sun ☀
@@ -19,7 +25,7 @@ inoremap \\bphone ☎
 inoremap \\wphone ☏
 inoremap \\wflag ⚐
 inoremap \\bflag ⚑
-inoremap \\pentag ⛤
+inoremap \\penta ⛤
 inoremap \\bapho ⛧
 inoremap \\swords ⚔
 inoremap \\music ♪
@@ -35,5 +41,8 @@ inoremap \\qnote ♩
 inoremap \\enote ♪
 inoremap \\enotes ♫
 inoremap \\snotes ♬
+inoremap \\degree °
+inoremap \\copy ©
+inoremap \\reg ®
 inoremap \\umbrel ☂
 inoremap \\snowma ☃

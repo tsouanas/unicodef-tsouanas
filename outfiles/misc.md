@@ -7,6 +7,12 @@
 | ``yen`` | ¥ |
 | ``brl`` | R$ |
 | ``cent`` | ¢ |
+| ``Eth`` | Ð |
+| ``eth`` | ð |
+| ``Thorn`` | Þ |
+| ``thorn`` | þ |
+| ``para`` | ¶ |
+| ``sect`` | § |
 | ``coffin`` | ⚰ |
 | ``pirate`` | ☠ |
 | ``sun`` | ☀ |
@@ -20,7 +26,7 @@
 | ``wphone`` | ☏ |
 | ``wflag`` | ⚐ |
 | ``bflag`` | ⚑ |
-| ``pentag`` | ⛤ |
+| ``penta`` | ⛤ |
 | ``bapho`` | ⛧ |
 | ``swords`` | ⚔ |
 | ``music`` | ♪ |
@@ -36,5 +42,8 @@
 | ``enote`` | ♪ |
 | ``enotes`` | ♫ |
 | ``snotes`` | ♬ |
+| ``degree`` | ° |
+| ``copy`` | © |
+| ``reg`` | ® |
 | ``umbrel`` | ☂ |
 | ``snowma`` | ☃ |

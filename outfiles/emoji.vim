@@ -8,3 +8,4 @@ inoremap \\puffy 🐡
 inoremap \\tada 🎉
 inoremap \\zzz 💤
 inoremap \\anchor ⚓
+inoremap \\boat ⛵
