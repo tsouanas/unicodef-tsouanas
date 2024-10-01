@@ -5,7 +5,7 @@ inoremap \\gbp £
 inoremap \\usd $
 inoremap \\yen ¥
 inoremap \\brl R$
-inoremap \\crz R$
+inoremap \\crz ₢$
 inoremap \\cent ¢
 inoremap \\Eth Ð
 inoremap \\eth ð
