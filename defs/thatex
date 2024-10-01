@@ -27,6 +27,7 @@ lAngle            ⦉
 rAngle            ⦊
 lnorm             ‖
 rnorm             ‖
+norm              ‖
 
 # common math
 halmos            ∎
@@ -304,6 +305,16 @@ dnleq             ⋢
 dngeq             ⋣
 ndleq             ⋢
 ndgeq             ⋣
+semleq            ⊑
+semgeq            ⊒
+semlt             ⊏
+semgt             ⊐
+semlneq           ⋤
+semgneq           ⋥
+semnleq           ⋢
+semngeq           ⋣
+nsemleq           ⋢
+nsemgeq           ⋣
 
 # misc
 flat              ♭
@@ -317,6 +328,8 @@ magic             ⛤
 bowtie            ⨝
 hrmf              ⍨
 smooch            ⍣
+
+# named
 lolli             ⊸
 sqmeet            ⊓
 sqjoin            ⊔

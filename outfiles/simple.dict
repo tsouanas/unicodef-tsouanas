@@ -12,6 +12,8 @@
   "|" = {
     "v" = ("insertText:", "↓");
     "\\^" = ("insertText:", "↑");
+    "|" = ("insertText:", "‖");
+    "]" = ("insertText:", "⟦");
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
   };
@@ -32,6 +34,39 @@
       "n" = ("insertText:", "–");
       "." = ("insertText:", "–");
     };
+  };
+  ")" = {
+    ")" = ("insertText:", "⦆");
+    "|" = ("insertText:", "⦈");
+    "};" = ("insertText:", "⦄");
+    ">" = ("insertText:", "⟩");
+    "S" = ("insertText:", "⟆");
+    "\"" = ("insertText:", "”");
+    "'" = ("insertText:", "’");
+  };
+  "(" = {
+    "(" = ("insertText:", "⦅");
+    "|" = ("insertText:", "⦇");
+    "{" = ("insertText:", "⦃");
+    "<" = ("insertText:", "⟨");
+    "S" = ("insertText:", "⟅");
+    "?" = ("insertText:", "¿");
+    "!" = ("insertText:", "¡");
+    "\"" = ("insertText:", "“");
+    "'" = ("insertText:", "‘");
+  };
+  "[" = {
+    "|" = ("insertText:", "⟦");
+    "[" = ("insertText:", "⟦");
+  };
+  "]" = {
+    "]" = ("insertText:", "⟦");
+  };
+  "'" = {
+    "]" = ("insertText:", "⌝");
+    "[" = ("insertText:", "⌜");
+    ")" = ("insertText:", "’");
+    "(" = ("insertText:", "‘");
   };
   ":" = {
     "." = ("insertText:", "∵");
@@ -136,12 +171,6 @@
   "?" = {
     "!" = ("insertText:", "⁈");
   };
-  "(" = {
-    "?" = ("insertText:", "¿");
-    "!" = ("insertText:", "¡");
-    "\"" = ("insertText:", "“");
-    "'" = ("insertText:", "‘");
-  };
   "*" = {
     "*" = ("insertText:", "∗");
   };
@@ -151,14 +180,6 @@
   "\"" = {
     ")" = ("insertText:", "”");
     "(" = ("insertText:", "“");
-  };
-  ")" = {
-    "\"" = ("insertText:", "”");
-    "'" = ("insertText:", "’");
-  };
-  "'" = {
-    ")" = ("insertText:", "’");
-    "(" = ("insertText:", "‘");
   };
   ">" = {
     "." = ("insertText:", "›");

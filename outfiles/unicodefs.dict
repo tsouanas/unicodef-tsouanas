@@ -156,6 +156,24 @@
             };
           };
         };
+        "e" = {
+          "m" = {
+            "g" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋣");
+                };
+              };
+            };
+            "l" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋢");
+                };
+              };
+            };
+          };
+        };
         "i" = {
           "m" = {
             " " = ("insertText:", "≁");
@@ -300,6 +318,7 @@
                 " " = ("insertText:", "⊴");
               };
             };
+            " " = ("insertText:", "‖");
           };
         };
         "t" = {
@@ -1927,6 +1946,9 @@
             };
           };
         };
+        "z" = {
+          " " = ("insertText:", "R$");
+        };
       };
       "d" = {
         "o" = {
@@ -3475,6 +3497,58 @@
                 "w" = {
                   " " = ("insertText:", "↘");
                 };
+              };
+            };
+          };
+        };
+        "m" = {
+          "n" = {
+            "g" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋣");
+                };
+              };
+            };
+            "l" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋢");
+                };
+              };
+            };
+          };
+          "g" = {
+            "n" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋥");
+                };
+              };
+            };
+            "t" = {
+              " " = ("insertText:", "⊐");
+            };
+            "e" = {
+              "q" = {
+                " " = ("insertText:", "⊒");
+              };
+            };
+          };
+          "l" = {
+            "n" = {
+              "e" = {
+                "q" = {
+                  " " = ("insertText:", "⋤");
+                };
+              };
+            };
+            "t" = {
+              " " = ("insertText:", "⊏");
+            };
+            "e" = {
+              "q" = {
+                " " = ("insertText:", "⊑");
               };
             };
           };
@@ -6843,6 +6917,8 @@
     "E" = ("insertText:", "É");
     "C" = ("insertText:", "Ć");
     "A" = ("insertText:", "Á");
+    "]" = ("insertText:", "⌝");
+    "[" = ("insertText:", "⌜");
     ")" = ("insertText:", "’");
     "(" = ("insertText:", "‘");
   };
@@ -7277,6 +7353,8 @@
   "|" = {
     "v" = ("insertText:", "↓");
     "\\^" = ("insertText:", "↑");
+    "|" = ("insertText:", "‖");
+    "]" = ("insertText:", "⟦");
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
   };
@@ -7284,6 +7362,33 @@
     "-" = ("insertText:", "←");
     "." = ("insertText:", "‹");
     "<" = ("insertText:", "«");
+  };
+  ")" = {
+    ")" = ("insertText:", "⦆");
+    "|" = ("insertText:", "⦈");
+    "};" = ("insertText:", "⦄");
+    ">" = ("insertText:", "⟩");
+    "S" = ("insertText:", "⟆");
+    "\"" = ("insertText:", "”");
+    "'" = ("insertText:", "’");
+  };
+  "(" = {
+    "(" = ("insertText:", "⦅");
+    "|" = ("insertText:", "⦇");
+    "{" = ("insertText:", "⦃");
+    "<" = ("insertText:", "⟨");
+    "S" = ("insertText:", "⟅");
+    "?" = ("insertText:", "¿");
+    "!" = ("insertText:", "¡");
+    "\"" = ("insertText:", "“");
+    "'" = ("insertText:", "‘");
+  };
+  "[" = {
+    "|" = ("insertText:", "⟦");
+    "[" = ("insertText:", "⟦");
+  };
+  "]" = {
+    "]" = ("insertText:", "⟦");
   };
   "+" = {
     "-" = ("insertText:", "±");
@@ -7343,22 +7448,12 @@
   "?" = {
     "!" = ("insertText:", "⁈");
   };
-  "(" = {
-    "?" = ("insertText:", "¿");
-    "!" = ("insertText:", "¡");
-    "\"" = ("insertText:", "“");
-    "'" = ("insertText:", "‘");
-  };
   "*" = {
     "*" = ("insertText:", "∗");
   };
   "\"" = {
     ")" = ("insertText:", "”");
     "(" = ("insertText:", "“");
-  };
-  ")" = {
-    "\"" = ("insertText:", "”");
-    "'" = ("insertText:", "’");
   };
   ">" = {
     "." = ("insertText:", "›");

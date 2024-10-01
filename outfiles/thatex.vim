@@ -26,6 +26,7 @@ inoremap \\lAngle ⦉
 inoremap \\rAngle ⦊
 inoremap \\lnorm ‖
 inoremap \\rnorm ‖
+inoremap \\norm ‖
 inoremap \\halmos ∎
 inoremap \\qed ∎
 inoremap \\leq ≤
@@ -289,6 +290,16 @@ inoremap \\dnleq ⋢
 inoremap \\dngeq ⋣
 inoremap \\ndleq ⋢
 inoremap \\ndgeq ⋣
+inoremap \\semleq ⊑
+inoremap \\semgeq ⊒
+inoremap \\semlt ⊏
+inoremap \\semgt ⊐
+inoremap \\semlneq ⋤
+inoremap \\semgneq ⋥
+inoremap \\semnleq ⋢
+inoremap \\semngeq ⋣
+inoremap \\nsemleq ⋢
+inoremap \\nsemgeq ⋣
 inoremap \\flat ♭
 inoremap \\sharp ♯
 inoremap \\natu ♮
