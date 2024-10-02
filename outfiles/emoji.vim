@@ -9,3 +9,7 @@ inoremap \\tada 🎉
 inoremap \\zzz 💤
 inoremap \\anchor ⚓
 inoremap \\boat ⛵
+inoremap \\octo 🐙
+inoremap \\thugl 🚬😎
+inoremap \\thugr 😎🚬
+inoremap \\inno 😗🎶

@@ -114,6 +114,9 @@ minfty            -∞
 pminfty           ±∞
 mpinfty           ∓∞
 surd              √
+root              √
+sqrt              √
+cbrt              ∛
 integ             ∫
 iinteg            ∬
 iiinteg           ∭
@@ -188,6 +191,7 @@ pset              ℘
 aleph             ℵ
 beth              ℶ
 gimel             ℷ
+daleth            ℸ
 
 # fun/rel
 comp              ∘
@@ -214,6 +218,9 @@ bijto             ⤖
 relto             ⇾
 relfrom           ⇽
 dual              ∂
+parder            ∂
+pderiv            ∂
+pder              ∂
 ndetfrom          ⇜
 ndetto            ⇝
 dfrom             ⇠
@@ -446,6 +453,8 @@ rmaps             ↦
 lmaps             ↤
 Rmaps             ⟼
 Lmaps             ⟻
+umaps             ↥
+dmaps             ↧
 there             ∴
 cause             ∵
 dplus             ⨢
@@ -457,3 +466,5 @@ provd             ⊣
 nprovs            ⊬
 mods              ⊨
 nmods             ⊭
+appr              ≈
+nappr             ≉

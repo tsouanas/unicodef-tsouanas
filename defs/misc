@@ -7,15 +7,15 @@ brl      R$
 crz      ₢$
 cent     ¢
 
+# typing
+para     ¶
+sect     §
+
 # ye olde
 Eth      Ð
 eth      ð
 Thorn    Þ
 thorn    þ
-
-# typing
-para     ¶
-sect     §
 
 # drawings
 coffin   ⚰
@@ -56,6 +56,7 @@ snotes   ♬
 degree   °
 copy     ©
 reg      ®
+estim    ℮
 
 
 # XXX shortcuts for 6-char-limit

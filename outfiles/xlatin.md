@@ -37,6 +37,7 @@
 | <code>d.</code> | ḋ |
 | <code>d!</code> | ḍ |
 | <code>d,</code> | ḑ |
+| <code>d/</code> | ð |
 | <code>e'</code> | é |
 | <code>ev</code> | ě |
 | <code>e~</code> | ẽ |
@@ -108,6 +109,7 @@
 | <code>s^</code> | ŝ |
 | <code>s.</code> | ṡ |
 | <code>s!</code> | ṣ |
+| <code>th</code> | þ |
 | <code>tv</code> | ť |
 | <code>t-</code> | ŧ |
 | <code>t.</code> | ṫ |
@@ -243,6 +245,7 @@
 | <code>S^</code> | Ŝ |
 | <code>S.</code> | Ṡ |
 | <code>S!</code> | Ṣ |
+| <code>Th</code> | Þ |
 | <code>Tv</code> | Ť |
 | <code>T-</code> | Ŧ |
 | <code>T.</code> | Ṫ |
@@ -432,8 +435,10 @@
 | <code>.x</code> | ẋ |
 | <code>.y</code> | ẏ |
 | <code>.z</code> | ż |
+| <code>/D</code> | Ð |
 | <code>/L</code> | Ł |
 | <code>/O</code> | Ø |
+| <code>/d</code> | ð |
 | <code>/l</code> | ł |
 | <code>/o</code> | ø |
 | <code>:A</code> | Ä |

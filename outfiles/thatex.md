@@ -112,6 +112,9 @@
 | <code>pminfty</code> | ±∞ |
 | <code>mpinfty</code> | ∓∞ |
 | <code>surd</code> | √ |
+| <code>root</code> | √ |
+| <code>sqrt</code> | √ |
+| <code>cbrt</code> | ∛ |
 | <code>integ</code> | ∫ |
 | <code>iinteg</code> | ∬ |
 | <code>iiinteg</code> | ∭ |
@@ -184,6 +187,7 @@
 | <code>aleph</code> | ℵ |
 | <code>beth</code> | ℶ |
 | <code>gimel</code> | ℷ |
+| <code>daleth</code> | ℸ |
 | <code>comp</code> | ∘ |
 | <code>to</code> | → |
 | <code>from</code> | ← |
@@ -208,6 +212,9 @@
 | <code>relto</code> | ⇾ |
 | <code>relfrom</code> | ⇽ |
 | <code>dual</code> | ∂ |
+| <code>parder</code> | ∂ |
+| <code>pderiv</code> | ∂ |
+| <code>pder</code> | ∂ |
 | <code>ndetfrom</code> | ⇜ |
 | <code>ndetto</code> | ⇝ |
 | <code>dfrom</code> | ⇠ |
@@ -424,6 +431,8 @@
 | <code>lmaps</code> | ↤ |
 | <code>Rmaps</code> | ⟼ |
 | <code>Lmaps</code> | ⟻ |
+| <code>umaps</code> | ↥ |
+| <code>dmaps</code> | ↧ |
 | <code>there</code> | ∴ |
 | <code>cause</code> | ∵ |
 | <code>dplus</code> | ⨢ |
@@ -435,3 +444,5 @@
 | <code>nprovs</code> | ⊬ |
 | <code>mods</code> | ⊨ |
 | <code>nmods</code> | ⊭ |
+| <code>appr</code> | ≈ |
+| <code>nappr</code> | ≉ |

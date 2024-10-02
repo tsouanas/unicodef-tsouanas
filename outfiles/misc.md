@@ -8,12 +8,12 @@
 | <code>brl</code> | R$ |
 | <code>crz</code> | ₢$ |
 | <code>cent</code> | ¢ |
+| <code>para</code> | ¶ |
+| <code>sect</code> | § |
 | <code>Eth</code> | Ð |
 | <code>eth</code> | ð |
 | <code>Thorn</code> | Þ |
 | <code>thorn</code> | þ |
-| <code>para</code> | ¶ |
-| <code>sect</code> | § |
 | <code>coffin</code> | ⚰ |
 | <code>pirate</code> | ☠ |
 | <code>sun</code> | ☀ |
@@ -46,5 +46,6 @@
 | <code>degree</code> | ° |
 | <code>copy</code> | © |
 | <code>reg</code> | ® |
+| <code>estim</code> | ℮ |
 | <code>umbrel</code> | ☂ |
 | <code>snowma</code> | ☃ |

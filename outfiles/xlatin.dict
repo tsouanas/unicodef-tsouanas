@@ -138,8 +138,10 @@
   "/" = {
     "o" = ("insertText:", "ø");
     "l" = ("insertText:", "ł");
+    "d" = ("insertText:", "ð");
     "O" = ("insertText:", "Ø");
     "L" = ("insertText:", "Ł");
+    "D" = ("insertText:", "Ð");
   };
   "." = {
     "z" = ("insertText:", "ż");
@@ -353,6 +355,7 @@
     "." = ("insertText:", "Ṫ");
     "-" = ("insertText:", "Ŧ");
     "v" = ("insertText:", "Ť");
+    "h" = ("insertText:", "Þ");
   };
   "S" = {
     "!" = ("insertText:", "Ṣ");
@@ -539,6 +542,7 @@
     "." = ("insertText:", "ṫ");
     "-" = ("insertText:", "ŧ");
     "v" = ("insertText:", "ť");
+    "h" = ("insertText:", "þ");
   };
   "s" = {
     "!" = ("insertText:", "ṣ");
@@ -646,6 +650,7 @@
     "'" = ("insertText:", "é");
   };
   "d" = {
+    "/" = ("insertText:", "ð");
     "," = ("insertText:", "ḑ");
     "!" = ("insertText:", "ḍ");
     "." = ("insertText:", "ḋ");

@@ -36,6 +36,7 @@ inoremap \d- đ
 inoremap \d. ḋ
 inoremap \d! ḍ
 inoremap \d, ḑ
+inoremap \d/ ð
 inoremap \e' é
 inoremap \ev ě
 inoremap \e~ ẽ
@@ -107,6 +108,7 @@ inoremap \sv š
 inoremap \s^ ŝ
 inoremap \s. ṡ
 inoremap \s! ṣ
+inoremap \th þ
 inoremap \tv ť
 inoremap \t- ŧ
 inoremap \t. ṫ
@@ -242,6 +244,7 @@ inoremap \Sv Š
 inoremap \S^ Ŝ
 inoremap \S. Ṡ
 inoremap \S! Ṣ
+inoremap \Th Þ
 inoremap \Tv Ť
 inoremap \T- Ŧ
 inoremap \T. Ṫ
@@ -431,8 +434,10 @@ inoremap \.w ẇ
 inoremap \.x ẋ
 inoremap \.y ẏ
 inoremap \.z ż
+inoremap \/D Ð
 inoremap \/L Ł
 inoremap \/O Ø
+inoremap \/d ð
 inoremap \/l ł
 inoremap \/o ø
 inoremap \:A Ä

@@ -7,12 +7,12 @@ inoremap \\yen ¥
 inoremap \\brl R$
 inoremap \\crz ₢$
 inoremap \\cent ¢
+inoremap \\para ¶
+inoremap \\sect §
 inoremap \\Eth Ð
 inoremap \\eth ð
 inoremap \\Thorn Þ
 inoremap \\thorn þ
-inoremap \\para ¶
-inoremap \\sect §
 inoremap \\coffin ⚰
 inoremap \\pirate ☠
 inoremap \\sun ☀
@@ -45,5 +45,6 @@ inoremap \\snotes ♬
 inoremap \\degree °
 inoremap \\copy ©
 inoremap \\reg ®
+inoremap \\estim ℮
 inoremap \\umbrel ☂
 inoremap \\snowma ☃

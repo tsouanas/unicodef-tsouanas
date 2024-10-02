@@ -10,3 +10,7 @@
 | <code>zzz</code> | 💤 |
 | <code>anchor</code> | ⚓ |
 | <code>boat</code> | ⛵ |
+| <code>octo</code> | 🐙 |
+| <code>thugl</code> | 🚬😎 |
+| <code>thugr</code> | 😎🚬 |
+| <code>inno</code> | 😗🎶 |

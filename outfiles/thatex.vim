@@ -111,6 +111,9 @@ inoremap \\minfty -∞
 inoremap \\pminfty ±∞
 inoremap \\mpinfty ∓∞
 inoremap \\surd √
+inoremap \\root √
+inoremap \\sqrt √
+inoremap \\cbrt ∛
 inoremap \\integ ∫
 inoremap \\iinteg ∬
 inoremap \\iiinteg ∭
@@ -183,6 +186,7 @@ inoremap \\pset ℘
 inoremap \\aleph ℵ
 inoremap \\beth ℶ
 inoremap \\gimel ℷ
+inoremap \\daleth ℸ
 inoremap \\comp ∘
 inoremap \\to →
 inoremap \\from ←
@@ -207,6 +211,9 @@ inoremap \\bijto ⤖
 inoremap \\relto ⇾
 inoremap \\relfrom ⇽
 inoremap \\dual ∂
+inoremap \\parder ∂
+inoremap \\pderiv ∂
+inoremap \\pder ∂
 inoremap \\ndetfrom ⇜
 inoremap \\ndetto ⇝
 inoremap \\dfrom ⇠
@@ -423,6 +430,8 @@ inoremap \\rmaps ↦
 inoremap \\lmaps ↤
 inoremap \\Rmaps ⟼
 inoremap \\Lmaps ⟻
+inoremap \\umaps ↥
+inoremap \\dmaps ↧
 inoremap \\there ∴
 inoremap \\cause ∵
 inoremap \\dplus ⨢
@@ -434,3 +443,5 @@ inoremap \\provd ⊣
 inoremap \\nprovs ⊬
 inoremap \\mods ⊨
 inoremap \\nmods ⊭
+inoremap \\appr ≈
+inoremap \\nappr ≉
