@@ -1,65 +1,65 @@
 # money
-eur      €
-gbp      £
-usd      $
-yen      ¥
-brl      R$
-crz      ₢$
-cent     ¢
+eur         €
+gbp         £
+usd         $
+yen         ¥
+brl         R$
+crz         ₢$
+cent        ¢
 
 # typing
-para     ¶
-sect     §
+para        ¶
+sect        §
 
 # ye olde
-Eth      Ð
-eth      ð
-Thorn    Þ
-thorn    þ
+Eth         Ð
+eth         ð
+Thorn       Þ
+thorn       þ
 
 # drawings
-coffin   ⚰
-pirate   ☠
-sun      ☀
-cloud    ☁
-umbrella ☂
-snowman  ☃
-sham     ☘
-toxic    ☢
-biohaz   ☣
-bphone   ☎
-wphone   ☏
-wflag    ⚐
-bflag    ⚑
-penta    ⛤
-bapho    ⛧
-swords   ⚔
-music    ♪
-note     ♪
-notes    ♫
+coffin      ⚰
+pirate      ☠
+sun         ☀
+cloud       ☁
+umbrella    ☂
+snowman     ☃
+sham        ☘
+toxic       ☢
+biohaz      ☣
+bphone      ☎
+wphone      ☏
+wflag       ⚐
+bflag       ⚑
+penta       ⛤
+bapho       ⛧
+swords      ⚔
+music       ♪
+note        ♪
+notes       ♫
 
 # checkboxes
-checkb   ☐
-checkc   ☑
-checkx   ☒
+checkb      ☐
+checkc      ☑
+checkx      ☒
 
 # music
-flat     ♭
-sharp    ♯
-natu     ♮
-qnote    ♩
-enote    ♪
-enotes   ♫
-snotes   ♬
+flat        ♭
+sharp       ♯
+natu        ♮
+qnote       ♩
+enote       ♪
+enotes      ♫
+snotes      ♬
 
 # misc
-degree   °
-copy     ©
-reg      ®
-estim    ℮
+degree      °
+copy        ©
+reg         ®
+estim       ℮
 
 
 # XXX shortcuts for 6-char-limit
 
-umbrel  ☂
-snowma  ☃
+umbrel      ☂
+snowma      ☃
